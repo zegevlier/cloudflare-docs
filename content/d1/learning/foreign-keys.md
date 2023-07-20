@@ -28,7 +28,6 @@ Refer to the [announcement blog](https://blog.cloudflare.com/d1-turning-it-up-to
 
 {{</Aside>}}
 
-
 ## Define a foreign key relationship
 
 A foreign key relationship can be defined when creating a table via `CREATE TABLE` or when adding a column to an existing table via an `ALTER TABLE` statement.
